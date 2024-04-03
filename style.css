@@ -1,0 +1,12 @@
+body
+{
+    font-family: Arial, sans-serif;
+    max-width: 0;
+    padding: 0;
+    background-color: hotpink;
+}
+header,footer
+{
+    background-color: darkmagenta;
+    color: cornflowerblue;
+}
